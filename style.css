@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bag {
+    border: none;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.bag .img{
+    width: 180px;
+}
